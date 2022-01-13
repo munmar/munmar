@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marton </h1>
-<h3 align="center">A passionate junior data analyst originally from Hungary but situated in the UK.</h3>
+<h3 align="center">A wannabe junior data analyst originally from Hungary but situated in the UK.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martonmunkacsi&label=Profile%20views&color=0e75b6&style=flat" alt="martonmunkacsi" /> </p>
 
