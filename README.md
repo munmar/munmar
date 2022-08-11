@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marton </h1>
-<h3 align="center">Aspiring Data Analyst</h3>
+<h3 align="center">Aspiring Tech Person</h3>
 <br>
 
 - 🌱 I’m currently learning SQL, Tableau and Advanced Excel.
