@@ -2,9 +2,9 @@
 <h3 align="center">Aspiring Tech Person</h3>
 <br>
 
-- 🌱 I’m currently learning SQL, Tableau and Advanced Excel.
+- 🌱 I’m currently enrolled at University of Nottingham studying Computer Science with AI (MSc).
 
-- 🚧 Side Projects: familiarising myself with **Javascript** and **React**
+- 🚧 Side Projects: mastering **python** and familiarising myself with **Javascript** and **React**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/MartonMunkacsi](https://github.com/MartonMunkacsi)
 
