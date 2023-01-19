@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently enrolled at University of Nottingham studying Computer Science with AI (MSc).
 
-- 🚧 Side Projects: mastering **python** and familiarising myself with **Javascript** and **React**
+- 🚧 Side Projects: mastering **Python** and familiarising myself with **Javascript** and **React**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/MartonMunkacsi](https://github.com/MartonMunkacsi)
 
