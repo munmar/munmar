@@ -6,7 +6,7 @@
 
 - 🚧 Side Projects: mastering **Django** and **React** frameworks
 
-- 👨‍💻 Be sure to check out my publicly available projects in this repo. Ones worth looking at are pinned below :)
+- 👨‍💻 Be sure to check out my pinned projects below: ↓ ↓ ↓
 
 
 
