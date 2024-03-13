@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmartonmunkacsi%2F)
+<a target="_blank" href="https://www.linkedin.com/in/martonmunkacsi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <h3 align="left">Languages</h3>
 
