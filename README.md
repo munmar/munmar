@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Marton </h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Aspiring Data Engineer</h3>
 <br>
 
-- 🌱 Currently looking for a Junior Software position.
+- 🌱 Currently looking for a Junior Data positions.
 
 - 🚧 Side Projects: mastering **Django** and **React** frameworks
+
+- 📖 Learning: **AWS** and **GCP**
 
 - 👨‍💻 Be sure to check out my pinned projects below: ↓ ↓ ↓
 
@@ -17,6 +19,7 @@
 <h3 align="left">Languages</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-053c79?style=for-the-badge&logo=database&labelColor=fff)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
@@ -34,6 +37,9 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-fff.svg?style=for-the-badge&logo=dbt&logoColor=orange)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Looker](https://img.shields.io/badge/looker-fff.svg?style=for-the-badge&logo=looker&logoColor=blue)
 
 <h3 align="left">Databases</h3>
 
