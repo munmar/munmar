@@ -2,11 +2,10 @@
 <h3 align="center">Aspiring Data Engineer</h3>
 <br>
 
-- 🌱 Currently looking for a Junior Data positions.
+Currently living in Berlin, whilst working at Wayfair as an Analytics Engineer Intern. After some unfortunate events (read more [here](https://www.cnbc.com/2025/01/10/wayfair-to-exit-germany-cut-730-jobs-in-latest-layoffs.html#:~:text=Wayfair%20is%20exiting%20the%20German,retail%2C%20the%20company%20said%20Friday.)), I am now on the lookout for a new company preferably here in Berlin. I'm interested in the following data related roles: Analytics Engineer, Data Engineer, Data Analyst, so if you know of any Junior/Entry-Level roles, then please feel free to reach out. I would love to get some conversations going.
 
-- 🚧 Side Projects: mastering **Django** and **React** frameworks
 
-- 📖 Learning: **AWS** and **GCP**
+- 📖 Currently Learning: **AWS**
 
 - 👨‍💻 Be sure to check out my pinned projects below: ↓ ↓ ↓
 
